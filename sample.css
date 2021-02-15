@@ -1,0 +1,212 @@
+body{
+    background: white;
+    color: #666666;
+}
+.sectionStyle{
+    margin-top: 30px;
+    box-shadow: -1px 0px 5px 4px rgba(41, 50, 50, 0.27);
+}
+/* navbar */
+
+/* mainpanel */
+.mainPanelHeading{
+    font-size: 70px;
+    font-weight: bold;
+    width: 50%;
+    margin-left: 20px;
+}
+.readMoreBtn{
+    font-size: 20px;
+    color: white;
+    background-color: #2B58B1 !important ;
+    border-radius: 50px;
+    font-weight: bold;
+    border: 0px;
+}
+.exampleItem{
+    width: 90%;
+}
+.solutionContainer{
+    width: 90%;
+}
+/* services provider */
+.serviceHeading{
+    font-size: 60px;
+}
+.serviceParagragh{
+    font-size: 25px;
+}
+.circleContainer{
+    background-image: url(assets/services.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 550px;
+    height: 1000px;
+    width: 90%;
+}
+.callerlady{
+    width: 70%;
+    margin: auto;
+    height: 280px;
+}
+.circleCleanDiv{
+    margin-top: 120px;
+}
+.items{
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.problemDetails{
+    width: 90%;
+}
+.contents{
+   
+    font-size: 40px;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  .background{
+      background-image: url("Assets/Group\ 1887.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 900px;
+     width: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  
+
+.slideContainer{
+    width: 80%;
+}
+.arrow{
+    color: gray !important;
+}
+/* slider close */
+
+.clientImg{
+   
+    width: 90%;
+}
+
+.serviceProvide{
+    font-size: 70px;
+}
+
+.serviceImg{
+    width: 65%;
+    height: 250px;
+
+}
+.date{
+    color: blue;
+}
+.serviceContainer{
+    width: 90%;
+}
+.brand{
+    width: 80%;
+}
+.brandLogo{
+    float: left;
+    
+}
+.logo{
+    width: 80%;
+    height: 50px;
+}
+.footerList{
+    list-style: none;
+    float: left;
+}
+.footerListt{
+    margin-left: 100px;
+    list-style: none;
+}
+.inputEmail{
+    height: 50px;
+    border-radius: 40px;
+    border: 1px solid gray;
+    outline: none;
+    width: 70%;
+}
+.subscribeBtn{
+    border: 1px solid;
+    border-radius: 20px;
+    height: 40px;
+    width: 40%;
+    color: white;
+    font-weight: bold;
+    background-color: #2B58B1;
+}
+.footer{
+    width: 90%;
+}
+.footerBorder{
+    border-top: 1px solid grey;
+}
+nav a{
+    font-size: 20px;
+}
+nav .navbar-brand{
+    font-size: 40px;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+
+.solutionImg{
+    width: 100%;
+}
+.problemImg{
+    width: 100%;
+}
+.happyClientImg{
+    width: 100%;
+}
+.heading-sm{
+    font-size: 30px;
+    font-weight: bold;
+    width: 10%;
+    margin-left: 0;
+    white-space: nowrap;
+
+}
+.background{
+    width: 100%;
+}
+.small{
+    margin-top: 40px;
+}
+.smallCircle{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.callerLady-Sm{
+    width: 100%;
+}
+.serviceImg{
+    width: 100%;
+}
+  }
+  
